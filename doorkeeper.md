@@ -27,3 +27,9 @@
 特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定
 ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定、多分C++かHaskellかRailsか......
 ショート | [@eielh](https://twitter.com/eielh) | 未定、RailsかHaskellかもしくは別のナニか
+
+# 運営を手伝いたい人
+
+個々がやりたいことをどんどんやって盛り上げよう。
+
+[やりとりはGitHubでしています。](https://github.com/LTDD/great-study-2014)
