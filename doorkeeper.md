@@ -16,20 +16,24 @@
 * [すごい広島](http://great-h.github.io/)
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
 * [広島++](http://hiroshima-plus-plus.github.io/)
+* [DevLOVE広島](https://www.facebook.com/groups/657965497630510/)
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
 
 # 発表者
 
-種別  | 発表者 | 内容
-------- | ----- | -----
-特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定
-ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定、多分C++かHaskellかRailsか......
-ショート | [@eielh](https://twitter.com/eielh) | 未定、RailsかHaskellかもしくは別のナニか
+種別  | 発表者 | タイトル | 内容
+------- | ----- | ----- | -----
+特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定 |
+ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定 | 多分C++かHaskellかRailsか......
+シュート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
+ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
+
 
 # 運営を手伝いたい人
 
 個々がやりたいことをどんどんやって盛り上げよう。
+主に懇親会の企画などしてくださる人募集。
 
 [やりとりはGitHubでしています。](https://github.com/LTDD/great-study-2014)
