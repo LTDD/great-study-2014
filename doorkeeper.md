@@ -17,6 +17,9 @@
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
 * [広島++](http://hiroshima-plus-plus.github.io/)
 * [DevLOVE広島](https://www.facebook.com/groups/657965497630510/)
+* [すごいE本読書会](http://fukuoka-sugoe-book.connpass.com/)
+* [Kyushu.hx](https://bitbucket.org/fukuokahaxe/haxe/wiki/Home)
+* Fukuoka Functional Freaks
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
@@ -29,7 +32,7 @@
 ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定 | 多分C++かHaskellかRailsか......
 ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
 ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
-ロング | [@nobkz](https://twitter.com/nobkz) | 福岡の勉強会事情周辺 |
+ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
