@@ -27,7 +27,9 @@
 ------- | ----- | ----- | -----
 特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定 |
 ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定 | 多分C++かHaskellかRailsか......
-シュート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
+ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
+ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
+ロング | [@nobkz](https://twitter.com/nobkz) | 福岡の勉強会事情周辺 |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
