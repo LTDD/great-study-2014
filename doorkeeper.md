@@ -20,6 +20,7 @@
 * [すごいE本読書会](http://fukuoka-sugoe-book.connpass.com/)
 * [Kyushu.hx](https://bitbucket.org/fukuokahaxe/haxe/wiki/Home)
 * Fukuoka Functional Freaks
+* [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
@@ -33,6 +34,7 @@
 ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
 ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
 ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
+ショート | [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama) | Google技術を何か紹介します | |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
