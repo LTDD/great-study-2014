@@ -12,7 +12,7 @@
 
 # 参加コミュニティ
 
-* [広島市立大学 プログラミング同好会](https://github.com/hcu-club)
+* [広島市立大学 プログラミング同好会](http://hcu.club)
 * [すごい広島](http://great-h.github.io/)
 * [LT駆動開発](http://ltdd.doorkeeper.jp/)
 * [広島++](http://hiroshima-plus-plus.github.io/)
@@ -30,6 +30,7 @@
 種別  | 発表者 | タイトル | 内容
 ------- | ----- | ----- | -----
 特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定 |
+特別枠 | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会 |
 ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定 | 多分C++かHaskellかRailsか......
 ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | アラフォーエンジニアが開発現場からコンニチワ　～サービス開発編～ | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
 ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
