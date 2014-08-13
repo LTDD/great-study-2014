@@ -22,6 +22,7 @@
 * Fukuoka Functional Freaks
 * [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
 * [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima)
+* [a-blog cmsの日](http://acmsdayhiroshima.doorkeeper.jp/)
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
@@ -38,6 +39,7 @@
 ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
 ショート | [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama) | Google技術を何か紹介します | |
 ショート | [TanakaYasunari](https://www.facebook.com/yasu7ri) | 未定 | |
+ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
