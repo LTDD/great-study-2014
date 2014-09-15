@@ -38,7 +38,7 @@
 ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
 ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
 ショート | [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama) | Google技術を何か紹介します | |
-ショート | [TanakaYasunari](https://www.facebook.com/yasu7ri) | 未定 | |
+ショート | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 | |
 ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
