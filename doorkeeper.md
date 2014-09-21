@@ -26,6 +26,7 @@
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
+* [NVDAユーザ会広島](http://ja.nishimotz.com/nvda_hiroshima)
 
 # 発表者
 
@@ -40,6 +41,7 @@
 ショート | [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama) | Google技術を何か紹介します | |
 ショート | [TanakaYasunari](https://www.facebook.com/yasu7ri) | 未定 | |
 ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
+ショート | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮） | |
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
