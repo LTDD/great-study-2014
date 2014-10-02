@@ -27,6 +27,9 @@
 * [hiλoshima](http://hi-lambda-oshima.github.io/)
 * [広島Emacs勉強会](https://atnd.org/events/8932)
 * [NVDAユーザ会広島](http://ja.nishimotz.com/nvda_hiroshima)
+* [広島サーバユーザ友の会](http://server-h.github.io/)
+* [日本CloudStackユーザ会 広島支部](https://atnd.org/events/55097)
+* [OSC広島実行委員会](http://www.ospn.jp/osc2014-hiroshima/)
 
 # 発表者
 
@@ -42,6 +45,7 @@
 ショート | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 | |
 ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
 ショート | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮） | |
+ライトニング | [@takatayoshitake](https://twitter.com/takatayoshitake) | 未定 | 未定
 ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
 
 
