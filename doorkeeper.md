@@ -20,7 +20,6 @@
 * [すごいE本読書会](http://fukuoka-sugoe-book.connpass.com/)
 * [Kyushu.hx](https://bitbucket.org/fukuokahaxe/haxe/wiki/Home)
 * Fukuoka Functional Freaks
-* [GDG中国](https://sites.google.com/site/gdgchugokuofficial/)
 * [すくすくスクラム広島](https://www.facebook.com/Sukusuku.Scrum.Hiroshima)
 * [a-blog cmsの日](http://acmsdayhiroshima.doorkeeper.jp/)
 * [Hiroshima.rb](http://hiroshimarb.github.io/)
@@ -41,7 +40,6 @@
 ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | May the Team be with you (episode1) | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
 ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
 ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
-ショート | [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama) | Google技術を何か紹介します | |
 ショート | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 | |
 ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
 ショート | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮） | |
