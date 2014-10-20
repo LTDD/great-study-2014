@@ -29,7 +29,7 @@ TODO
 * ロング(45分から60分)
   * 3/3 (締切ました)
 * ショート(15分)
-  * 5/7
+  * 5/6
 * ライトニング(5分)
   * 2/6
 
@@ -69,15 +69,14 @@ TODO
 13:50 | S | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 |
 14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
 14:20 | S |  | ショートセッション
-14:35 | S |  | ショートセッション
-14:40 | B |  | 休憩
-14:50 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
-15:50 | B | 休憩
-16:00 | L | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
-16:50 | B | 休憩
-17:00 | L | |  ライトニングトーク大会
- | | | [まよの人](https://twitter.com/majosystems)
- | | | [@takatayoshitake](https://twitter.com/takatayoshitake)
+14:35 | B |  | 休憩
+15:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
+16:45 | B | 休憩
+16:55 | L | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
+17:55 | B | 休憩
+17:05 | L | |  ライトニングトーク大会
+ | | [まよの人](https://twitter.com/majosystems) |
+ | | [@takatayoshitake](https://twitter.com/takatayoshitake) |
 17:45 |  | クロージング
 
 
