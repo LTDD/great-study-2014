@@ -6,9 +6,34 @@
 
 * [すごい合同勉強会 発表者登録フォーム](https://docs.google.com/forms/d/1VfzkHTKPX2gQXjqc4GACedZdpm67iudSGGkjAWY_aw4/viewform?usp=send_form)
 
+# 会場へのアクセス
+
+TODO
+
 # 懇親会
 
-懇親会は2000円から3000円でLTのできる会場にできたらいいなぁ、と思っています。
+[コワーキングスペース ShakeHands](http://shakehands.jp/)
+
+2500円から3000円の間で調整中
+
+# 電源について
+
+TODO
+
+# 昼御飯について
+
+TODO
+
+# セッション
+
+* ロング(45分から60分)
+  * 3/3 (締切ました)
+* ショート(15分)
+  * 5/7
+* ライトニング(5分)
+  * 2/6
+
+埋まらない場合は微調整する場合があります
 
 # 参加コミュニティ
 
@@ -49,7 +74,10 @@
 14:50 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
 15:50 | B | 休憩
 16:00 | L | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
-17:00 | L | [まよの人](https://twitter.com/majosystems) <br> [@takatayoshitake](https://twitter.com/takatayoshitake) | ライトニングトーク大会 6本ぐらい
+16:50 | B | 休憩
+17:00 | L | |  ライトニングトーク大会
+ | | | [まよの人](https://twitter.com/majosystems)
+ | | | [@takatayoshitake](https://twitter.com/takatayoshitake)
 17:45 |  | クロージング
 
 
