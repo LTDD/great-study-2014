@@ -29,7 +29,7 @@ TODO
 * ロング(45分から60分)
   * 3/3 (締切ました)
 * ショート(15分)
-  * 5/6
+  * 6/6 (締切ました)
 * ライトニング(5分)
   * 2/6
 
@@ -54,6 +54,7 @@ TODO
 * [広島サーバユーザ友の会](http://server-h.github.io/)
 * [日本CloudStackユーザ会 広島支部](https://atnd.org/events/55097)
 * [OSC広島実行委員会](http://www.ospn.jp/osc2014-hiroshima/)
+* [CTF for Beginners](http://2014.seccon.jp/index.html)
 
 # タイムテーブル
 
@@ -68,7 +69,7 @@ TODO
 12:50 | B | 昼休憩
 13:50 | S | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 |
 14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
-14:20 | S |  | ショートセッション
+14:20 | S |  | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
 14:35 | B |  | 休憩
 15:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
 16:45 | B | 休憩
