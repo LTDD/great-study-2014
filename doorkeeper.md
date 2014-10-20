@@ -30,21 +30,125 @@
 * [日本CloudStackユーザ会 広島支部](https://atnd.org/events/55097)
 * [OSC広島実行委員会](http://www.ospn.jp/osc2014-hiroshima/)
 
-# 発表者
+# タイムテーブル
 
-種別  | 発表者 | タイトル | 内容
-------- | ----- | ----- | -----
-特別枠 | [江添亮](http://twitter.com/EzoeRyou) | 未定 |
-特別枠 | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会 |
-ショート | [南山まさかず](http://twitter.com/minamiyama1994) | 未定 | 多分C++かHaskellかRailsか......
-ショート | [ザキさん](https://www.facebook.com/koutarou.ishizaki) | May the Team be with you (episode1) | ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
-ショート | [もりたこ](https://twitter.com/mrtc0) | 未定 |
-ロング | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か? |
-ショート | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 | |
-ライトニング | [まよの人](https://twitter.com/majosystems) | 未定 | |
-ショート | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮） | |
-ライトニング | [@takatayoshitake](https://twitter.com/takatayoshitake) | 未定 | 未定
-ショート | [@eielh](https://twitter.com/eielh) | 未定 | RailsかHaskellかもしくは別のナニか
+時間 | |  発表者 | タイトル
+---- | --- | ----- | ------
+11:00 |  | オープニング
+11:10 | S | [ザキさん](https://www.facebook.com/koutarou.ishizaki) |  May the Team be with you (episode1)
+11:25 | S | [もりたこ](https://twitter.com/mrtc0) | 未定
+11:40 | S | [@eielh](https://twitter.com/eielh) | 内包表記(仮)
+11:55 | B | | 休憩
+12:05 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か?
+12:50 | B | 昼休憩
+13:50 | S | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 |
+14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
+14:20 | S |  | ショートセッション
+14:35 | S |  | ショートセッション
+14:40 | B |  | 休憩
+14:50 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
+15:50 | B | 休憩
+16:00 | L | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
+17:00 | L | [まよの人](https://twitter.com/majosystems) <br> [@takatayoshitake](https://twitter.com/takatayoshitake) | ライトニングトーク大会 6本ぐらい
+17:45 |  | クロージング
+
+
+# セッション詳細
+
+## タイトル
+
+May the Team be with you (episode1)
+
+## 発表者
+
+[ザキさん](https://www.facebook.com/koutarou.ishizaki)
+
+## 概要
+
+ガチガチのSI開発から、サービス開発に転生（2012～）しつつあります。アラフォーでも、『現場第一』をモットーに日々足掻いてます。
+
+<hr>
+
+## タイトル
+
+未定
+
+## 発表者
+
+[もりたこ](https://twitter.com/mrtc0)
+
+<hr>
+
+## タイトル
+
+内包表記(仮)
+
+## 発表者
+
+[@eielh](https://twitter.com/eielh)
+
+## 概要
+
+なんとなく内包表記の話がしたい気がするので内包表記の話をする。
+
+<hr>
+
+## タイトル
+
+(仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か?
+
+## 発表者
+
+[@nobkz](https://twitter.com/nobkz)
+
+<hr>
+
+## タイトル
+
+Introduction to the すくすくスクラム広島
+
+## 発表者
+
+[kwgch](https://twitter.com/ducky19999)
+
+<hr>
+
+## タイトル
+
+スクリーンリーダーNVDA日本語版の思い出（仮）
+
+## 発表者
+
+[にしもつ](https://twitter.com/24motz)
+
+<hr>
+
+## タイトル
+
+未定
+
+## 発表者
+
+[江添亮](http://twitter.com/EzoeRyou)
+
+<hr>
+
+## タイトル
+
+未定
+
+## 発表者
+
+[まよの人](https://twitter.com/majosystems)
+
+
+## タイトル
+
+未定
+
+## 発表者
+
+[@takatayoshitake](https://twitter.com/takatayoshitake)
 
 
 # 運営を手伝いたい人
