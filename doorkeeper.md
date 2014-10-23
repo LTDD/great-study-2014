@@ -69,16 +69,16 @@ TODO
 11:25 | S | [もりたこ](https://twitter.com/mrtc0) | 未定
 11:40 | S | [@eielh](https://twitter.com/eielh) | 内包表記(仮)
 11:55 | B | | 休憩
-12:05 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ事情周辺事を福岡スタートアップ事情とかいろいろ、イノベーションとは何か?
+12:05 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ(中略)
 12:50 | B | 昼休憩
 13:50 | S | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 |
 14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
-14:20 | S |  | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
+14:20 | S | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
 14:35 | B |  | 休憩
 14:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
 15:45 | B | 休憩
 15:55 | S | プログラミング同好会 顧問 | 未定
-16:10 | L | [広島市立大学 プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
+16:10 | L | [プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
 17:10 | B | 休憩
 17:15 | L | |  ライトニングトーク大会
  | | [まよの人](https://twitter.com/majosystems) |
