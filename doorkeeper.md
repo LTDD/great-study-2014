@@ -75,7 +75,7 @@ TODO
 14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
 14:20 | S | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
 14:35 | B |  | 休憩
-14:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 未定
+14:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 次期C++に提案中の新機能
 15:45 | B | 休憩
 15:55 | S | プログラミング同好会 顧問 | 未定
 16:10 | L | [プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
@@ -158,11 +158,15 @@ Introduction to the すくすくスクラム広島
 
 ## タイトル
 
-未定
+次期C++に提案中の新機能
 
 ## 発表者
 
 [江添亮](http://twitter.com/EzoeRyou)
+
+## 概要
+
+まだC++標準化委員会に提案されたばかりで、採用されるかどうかも分からない面白い新機能をいくつか紹介しようと思っています。
 
 <hr>
 
