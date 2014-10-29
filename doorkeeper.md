@@ -71,7 +71,7 @@ TODO
 11:55 | B | | 休憩
 12:05 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ(中略)
 12:50 | B | 昼休憩
-13:50 | S | [kwgch](https://twitter.com/ducky19999) | Introduction to the すくすくスクラム広島 |
+13:50 | S | [kwgch](https://twitter.com/ducky19999) | すくすくスクラム広島とは |
 14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
 14:20 | S | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
 14:35 | B |  | 休憩
@@ -138,11 +138,15 @@ May the Team be with you (episode1)
 
 ## タイトル
 
-Introduction to the すくすくスクラム広島
+すくすくスクラム広島とは
 
 ## 発表者
 
 [kwgch](https://twitter.com/ducky19999)
+
+## 概要
+
+すくすくスクラム広島とスクラムの紹介
 
 <hr>
 
