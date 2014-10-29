@@ -65,22 +65,22 @@ TODO
 時間 | |  発表者 | タイトル
 ---- | --- | ----- | ------
 11:00 |  | オープニング
-11:10 | S | [ザキさん](https://www.facebook.com/koutarou.ishizaki) |  May the Team be with you (episode1)
-11:25 | S | [もりたこ](https://twitter.com/mrtc0) | 未定
-11:40 | S | [@eielh](https://twitter.com/eielh) | 内包表記(仮)
-11:55 | B | | 休憩
-12:05 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ(中略)
-12:50 | B | 昼休憩
-13:50 | S | [kwgch](https://twitter.com/ducky19999) | すくすくスクラム広島とは |
-14:05 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
-14:20 | S | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
-14:35 | B |  | 休憩
-14:45 | L | [江添亮](http://twitter.com/EzoeRyou) | 次期C++に提案中の新機能
-15:45 | B | 休憩
-15:55 | S | プログラミング同好会 顧問 | 未定
-16:10 | L | [プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
-17:10 | B | 休憩
-17:15 | L | |  ライトニングトーク大会
+11:10 | L | [プログラミング同好会](http://hcu.club/) | プログラミング同好会によるLT大会
+ | | 5人程度を予定
+12:10 | B | | 休憩
+12:20 | S | プログラミング同好会 顧問 | 未定
+12:35 | S | [ザキさん](https://www.facebook.com/koutarou.ishizaki) |  May the Team be with you (episode1)
+12:50 | S | [もりたこ](https://twitter.com/mrtc0) | 未定
+13:05 | B | 昼休憩
+14:05 | S | [@eielh](https://twitter.com/eielh) | 内包表記(仮)
+14:20 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ(中略)
+15:05 | B |  | 休憩
+15:15 | S | [kwgch](https://twitter.com/ducky19999) | すくすくスクラム広島とは |
+15:30 | S | [にしもつ](https://twitter.com/24motz) | スクリーンリーダーNVDA日本語版の思い出（仮）
+15:45 | S | [ねむねむ](https://twitter.com/nemumupoyo/status/524090457274712064) | ネットワーク関連(仮)
+16:00 | B | 休憩
+16:10 | L | [江添亮](http://twitter.com/EzoeRyou) | 次期C++に提案中の新機能
+17:10 | L | |  ライトニングトーク大会
  | | [まよの人](https://twitter.com/majosystems) |
  | | [@takatayoshitake](https://twitter.com/takatayoshitake) |
 17:45 |  | クロージング
