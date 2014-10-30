@@ -11,7 +11,14 @@
 * [こちらを参考にしてください](http://www.hiroshima-cu.ac.jp/page/content0002.html)
 
 横川からバスをつかったアクセスが便利です。
-駐車場も開放されているそうですが、学際が同時に行なわれているため、参加者同士で乗り合せて台数が多くならないようにご協力ください。
+
+原付などは付属図書館裏に停めることができます。
+
+* http://info.hiroshima-cu.ac.jp/Map/
+
+車でお越しの際はお手数ですが、運営に連絡ください。
+
+* [お問い合わせ](http://great-study.doorkeeper.jp/contact/new)
 
 # 懇親会
 
