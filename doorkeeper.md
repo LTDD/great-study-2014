@@ -35,7 +35,7 @@ TODO
 * ショート(15分)
   * 6/6 (締切ました)
 * ライトニング(5分)
-  * 2/6
+  * 3/6
 
 埋まらない場合は微調整する場合があります
 
@@ -59,6 +59,8 @@ TODO
 * [日本CloudStackユーザ会 広島支部](https://atnd.org/events/55097)
 * [OSC広島実行委員会](http://www.ospn.jp/osc2014-hiroshima/)
 * [CTF for Beginners](http://2014.seccon.jp/index.html)
+* [Okayama.rb](http://www.circleaf.com/groups/15)
+* [岡山Ruby,Ruby on Rails勉強会](http://okaruby.doorkeeper.jp/)
 
 # タイムテーブル
 
@@ -83,6 +85,7 @@ TODO
 17:10 | L | |  ライトニングトーク大会
  | | [まよの人](https://twitter.com/majosystems) |
  | | [@takatayoshitake](https://twitter.com/takatayoshitake) |
+ | | [mako_wis](https://twitter.com/mako_wis) | 第5回 開発コンテスト24 に参加した話
 17:45 |  | クロージング
 
 
@@ -191,6 +194,13 @@ May the Team be with you (episode1)
 
 [@takatayoshitake](https://twitter.com/takatayoshitake)
 
+## タイトル
+
+第5回 開発コンテスト24 に参加した話
+
+## 発表者
+
+[mako_wis](https://twitter.com/mako_wis)
 
 # 運営を手伝いたい人
 
