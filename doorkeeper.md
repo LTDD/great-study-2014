@@ -171,6 +171,10 @@ May the Team be with you (episode1)
 
 [にしもつ](https://twitter.com/24motz)
 
+## 概要
+
+オープンソースのスクリーンリーダー NVDA の経験から、ソフトウエアの開発コミュニティ／ユーザ会の運営について。
+
 <hr>
 
 ## タイトル
