@@ -117,11 +117,15 @@ May the Team be with you (episode1)
 
 ## タイトル
 
-未定
+機械学習入門以前
 
 ## 発表者
 
 [もりたこ](https://twitter.com/mrtc0)
+
+## 概要
+
+機械学習を使った攻撃検知(IDS/IPS)についても話します.
 
 <hr>
 
@@ -170,10 +174,6 @@ May the Team be with you (episode1)
 ## 発表者
 
 [にしもつ](https://twitter.com/24motz)
-
-## 概要
-
-オープンソースのスクリーンリーダー NVDA の経験から、ソフトウエアの開発コミュニティ／ユーザ会の運営について。
 
 <hr>
 
