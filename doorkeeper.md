@@ -82,7 +82,7 @@
 12:10 | B | | 休憩
 12:20 | S | プログラミング同好会 顧問 | 未定
 12:35 | S | [ザキさん](https://www.facebook.com/koutarou.ishizaki) |  May the Team be with you (episode1)
-12:50 | S | [もりたこ](https://twitter.com/mrtc0) | 未定
+12:50 | S | [もりたこ](https://twitter.com/mrtc0) | 機械学習入門以前
 13:05 | B | 昼休憩
 14:05 | S | [@eielh](https://twitter.com/eielh) | 内包表記(仮)
 14:20 | L | [@nobkz](https://twitter.com/nobkz) | (仮)福岡の勉強会コミュニティ(中略)
